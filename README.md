@@ -231,4 +231,38 @@ HTML.><!DOCTYPE html>
 </html>
 
 p>تواصل معي عبر البريد الإلكتروني: <a href="mailto:khlylznym8@gmail.com">khlylznym8@gmail.com</a></p> 
-    </فوتر>
+    </فوتر><style>
+    .whatsapp-button {
+        position: fixed;
+        width: 60px;
+        height: 60px;
+        bottom: 40px;
+        right: 40px;
+        background-color: #25d366;
+        color: white;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        box-shadow: 2px 2px 3px #999;
+        z-index: 100;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .whatsapp-button a {
+        color: white;
+        text-decoration: none;
+        font-size: 30px;
+    }
+
+    .whatsapp-button:hover {
+        background-color: #128c7e;
+    }
+</style>
+
+<div class="whatsapp-button">
+    <a href="https://wa.me/738860029" target="_blank">
+        &#x1F4AC; < Font Awesome -->
+    </a>
+</div>
