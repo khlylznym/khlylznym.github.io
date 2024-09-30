@@ -229,3 +229,6 @@ HTML.><!DOCTYPE html>
 
 </body>
 </html>
+
+p>تواصل معي عبر البريد الإلكتروني: <a href="mailto:khlylznym8@gmail.com">khlylznym8@gmail.com</a></p> 
+    </فوتر>
